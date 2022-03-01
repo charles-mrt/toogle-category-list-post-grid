@@ -1,5 +1,5 @@
-<?php
 
+<?php
 /**
 * Enqueue scripts by page ID.	
 * 
@@ -17,20 +17,18 @@ function enqueueCustomScripts() {
         
 		// js scripts
 		wp_enqueue_script ( 
-            'scriptToogleCategoryFilterList' ,  
-            get_stylesheet_directory_uri() . 
-            '/customScripts/main.js', 
-            array() , false , true 
-        );	
+                  'scriptToogleCategoryFilterList' ,  
+                  get_stylesheet_directory_uri() . 
+            	  '/customScripts/main.js', 
+            	  array() , false , true 
+        	);	
 
 		// css scripts
 		wp_enqueue_style( 
-            'styleToogleShowCategoryFilterList', 
-            get_stylesheet_directory_uri() . 
-            '/customScripts/style.css'
-        );
+            	  'styleToogleShowCategoryFilterList', 
+            	  get_stylesheet_directory_uri() . 
+            	  '/customScripts/style.css'
+        	);
 	}
 }
- add_action( 'wp_enqueue_scripts', 'enqueueCustomScripts' );
-
-?>
+add_action( 'wp_enqueue_scripts', 'enqueueCustomScripts' );
