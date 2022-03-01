@@ -8,12 +8,12 @@
  - PHP, JAVASCRIPT, CSS, WORDPRESS (plugins - ELementor, livemesh addons for elementor, Specific Content for Mobile).
 
 <p align="center">
- <img src="https://i.ibb.co/LvpHpQB/cat-lis-toogle.png" alt="cat-lis-toogle" border="0">
+ <img src="https://i.ibb.co/kgnjNmY/cat-lis-toogle.png" alt="cat-lis-toogle" border="0">
 </p>
 
 ## Scripts Disponíveis para rodar sua aplicação
 
-<strong> 1º </srtong>Instalação do projeto 
+<strong> 1º </strong>Instalação do projeto 
 - Siga as instruções abaixo.
 
 ```bash
@@ -29,11 +29,11 @@ https://wordpress.org/plugins/addons-for-elementor/
 # Instalação do plugin Specific Content For Mobile
 https://wordpress.org/plugins/specific-content-for-mobile/
 
-Executa o aplicativo no modo de desenvolvimento.\
+Executa o aplicativo no modo de desenvolvimento.
 - Acesse seu navegador com o endereço: (http://localhost:domain-name).
 
 ```
-<strong> 2º </srtong>Criação da página 
+<strong> 2º </strong>Criação da página 
 - Siga as instruções abaixo.
 
 ```bash
@@ -43,7 +43,7 @@ Executa o aplicativo no modo de desenvolvimento.\
 # Adicione o addons Posts Grid em seu layout, no Painel do post Grid acesse a guia avançado e adicione no nome da classe Css - categoryFilterList
 ```
 
-<strong> 3º </srtong>Como Rodar os Scripts
+<strong> 3º </strong>Como Rodar os Scripts
 - Siga as instruções abaixo.
 
 ```bash
