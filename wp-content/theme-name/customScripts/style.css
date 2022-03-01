@@ -1,0 +1,12 @@
+/*home page mobile filter list*/
+.categoryFilterList .lae-taxonomy-filter.hide {
+    display: none;
+ }
+.categoryFilterList .lae-taxonomy-filter {
+    display: block;
+ }
+
+/*remove margin - post grid addon*/
+ .lae-portfolio-wrap .lae-portfolio-header {
+    margin: 0;
+ }
