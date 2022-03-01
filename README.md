@@ -4,7 +4,7 @@
 - toogle que customiza o modo em que o filtro de categorias de postagem é apresentado em telas de dispositivos móveis, através do addons Post Grid, disponível no plugin Livemesh addons-for-elementor.
 - Facilita e melhora a maneira que a lista de postagem é apresentada. 
 
-
+# Modelo
 <p align="center">
  <img src="https://i.ibb.co/kgnjNmY/cat-lis-toogle.png" alt="cat-lis-toogle" border="0">
 </p>
