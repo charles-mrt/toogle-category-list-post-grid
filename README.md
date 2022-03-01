@@ -11,7 +11,7 @@
  <img src="https://i.ibb.co/kgnjNmY/cat-lis-toogle.png" alt="cat-lis-toogle" border="0">
 </p>
 
-## Scripts Disponíveis para rodar sua aplicação
+## Tecnologia/plugins disponíveis para rodar sua aplicação
 
 <strong> 1º </strong>Instalação do projeto 
 - Siga as instruções abaixo.
@@ -37,18 +37,18 @@ Executa o aplicativo no modo de desenvolvimento.
 - Siga as instruções abaixo.
 
 ```bash
-# Crie uma página e replique para dispositivo móvel.
-# customize essa página com elementor
-# Adicione um botão no seu layout com o nome do ID - categoryFilterButton
-# Adicione o addons Posts Grid em seu layout, no Painel do post Grid acesse a guia avançado e adicione no nome da classe Css - categoryFilterList
+# Crie uma página e replique para dispositivo móvel;
+# customize essa página com elementor;
+# Adicione um botão no seu layout com o nome do ID - categoryFilterButton;
+# Adicione o addons Posts Grid em seu layout, no Painel do post Grid acesse a guia avançado e adicione no nome da classe Css - categoryFilterList.
 ```
 
 <strong> 3º </strong>Como Rodar os Scripts
 - Siga as instruções abaixo.
 
 ```bash
-# Copie o código de functions.php para o functions.php do seu tema.
-# certifique-se em alterar o Id da cosntante MOBILE_FRONT_PAGE_ID para o Id da página criada.
+# Copie o código de functions.php para o functions.php do seu tema;
+# certifique-se em alterar o Id da constante MOBILE_FRONT_PAGE_ID para o Id da página criada;
 # Adicione o diretório customScripts na raiz do seu tema com seus respectivos arquivos css e js.
 ```
 
