@@ -11,7 +11,7 @@ function enqueueCustomScripts() {
 	/*
 	* This page is only accessible by mobile device
 	*/
-	define('MOBILE_FRONT_PAGE_ID' , 1938 );
+	define( 'MOBILE_FRONT_PAGE_ID' , 1938 );
 
 	if ( is_page( MOBILE_FRONT_PAGE_ID ) ) {
         
