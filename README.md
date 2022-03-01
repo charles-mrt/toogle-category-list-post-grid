@@ -4,13 +4,14 @@
 - toogle que customiza o modo em que o filtro de categorias de postagem é apresentado em telas de dispositivos móveis, através do addons Post Grid, disponível no plugin Livemesh addons-for-elementor.
 - Facilita e melhora a maneira que a lista de postagem é apresentada. 
 
-# tecnologias utilizadas
- - PHP, JAVASCRIPT, CSS, WORDPRESS (plugins - ELementor, livemesh addons for elementor, Specific Content for Mobile).
 
 <p align="center">
  <img src="https://i.ibb.co/kgnjNmY/cat-lis-toogle.png" alt="cat-lis-toogle" border="0">
 </p>
 
+# tecnologias utilizadas
+ - PHP, JAVASCRIPT, CSS, WORDPRESS (plugins - ELementor, livemesh addons for elementor, Specific Content for Mobile).
+ - 
 ## Tecnologia/plugins disponíveis para rodar sua aplicação
 
 <strong> 1º </strong>Instalação do projeto 
